@@ -1,0 +1,9 @@
+# GitHub Pages Configuration
+# Remove .html extension from URLs
+
+permalink: pretty
+
+# Enable Jekyll processing
+plugins:
+  - jekyll-redirect-from
+
